@@ -12,7 +12,7 @@ body{
     display: flex;
     flex-flow: row wrap;
     height: 100px;
-    background: cadetblue;
+    background: white;
     justify-content: center;
     align-items: center;
 }
@@ -20,7 +20,7 @@ body{
 .logo{
     flex: 20%;
     margin-left: 10%;
-    border:1px solid red;
+    /*border:1px solid red;*/
     text-align: center;
 }
 
@@ -32,7 +32,7 @@ body{
 
 .menu{
     flex: 70%;
-    border:1px solid greenyellow;
+    /*border:1px solid greenyellow;*/
     text-align: right;
     padding: 20px;
 }
